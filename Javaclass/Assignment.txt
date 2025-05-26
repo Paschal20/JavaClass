@@ -1,0 +1,2 @@
+Explain or defend writing stirngs in a string.
+A summary of Number and Number methods
